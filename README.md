@@ -1,4 +1,4 @@
-Para poder correr la práctica 4 debemos de abrir una terminal como administrador en dirección de la carpeta donde se clono el repositorio y ponemos lo siguiente en la terminar:
+Para poder correr la práctica 3 debemos de abrir una terminal como administrador en dirección de la carpeta donde se clono el repositorio y ponemos lo siguiente en la terminar:
 
 npm run dev
 
